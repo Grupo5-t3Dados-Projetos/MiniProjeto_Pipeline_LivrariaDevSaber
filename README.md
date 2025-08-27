@@ -6,16 +6,16 @@ No final, todas as perguntas deverão ser documentadas e respondidas neste READM
 # Por que uma planilha não é ideal para uma empresa que quer analisar vendas a fundo?
 Uma planilha é ótima para começar, mas tem sérias limitações para uma empresa que deseja crescer:
 
-# Limite de Dados:
+Limite de Dados:
 E se a livraria fizer 1 milhão de vendas? A maioria das planilhas não consegue lidar com esse volume. Elas ficam lentas, travam ou nem abrem. Já um banco de dados como o BigQuery foi feito para processar volumes massivos de informação.
 
-# Integridade e Padronização:
+Integridade e Padronização:
 Em uma planilha, é muito fácil cometer erros de digitação. Um dia você escreve "e-book", no outro "ebook". Isso gera inconsistência. Um banco de dados impõe regras e padronização, garantindo dados confiáveis.
 
-# Dificuldade em Análises Complexas:
+Dificuldade em Análises Complexas:
 Cruzar informações de vendas, clientes e estoque em uma planilha é extremamente complicado. Já no SQL, comandos simples como JOIN resolvem esse problema rapidamente.
 
-# Automação e Escalabilidade:
+Automação e Escalabilidade:
 Planilhas dependem de atualização manual. Em um pipeline de dados, coleta, carga e transformação podem ser automatizadas, permitindo que a empresa cresça sem perder qualidade de análise.
 
 # Que perguntas o dono da Livraria DevSaber gostaria de responder?
