@@ -24,7 +24,7 @@ Resultados são materializados em views e/ou materialized views no BigQuery, pro
 
 ## Equipe
 Projeto em grupo — Bootcamp de Engenharia de Dados do Grupo Boticário.
-- [Nome 1]
+- Luana Silva - https://github.com/LuanaTechVet
 - [Nome 2]
 - [Nome 3]
 - [Nome 4]
