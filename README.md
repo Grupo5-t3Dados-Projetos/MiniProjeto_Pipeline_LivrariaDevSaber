@@ -47,11 +47,13 @@ Não, o comando INSERT INTO sozinho provavelmente não seria a melhor abordagem 
 
   ## Pergunta 1: Qual o nome dos clientes que moram no estado de 'SP'?
   R: Ana Silva e Carla Dias
+  
   <img width="332" height="176" alt="image" src="https://github.com/user-attachments/assets/a793ed21-8bcd-4e70-bfeb-388b215a94c9" />
 
 
   ## Pergunta 2: Quais produtos pertencem à categoria 'Ficção Científica'?
   R: O Guia do Mochileiro e Duna
+  
   <img width="329" height="176" alt="image" src="https://github.com/user-attachments/assets/ed1b6437-854a-4d28-9f18-618158d8830d" />
 
 
@@ -63,7 +65,8 @@ Não, o comando INSERT INTO sozinho provavelmente não seria a melhor abordagem 
     3	Carla Dias	Python para Dados	2024-02-02
     4	Ana Silva	Duna	2024-02-10
     5	Daniel Souza	Fundamentos de SQL	2024-02-20
-6	Bruno Costa	O Guia do Mochileiro	2024-03-05
+    6	Bruno Costa	O Guia do Mochileiro	2024-03-05
+
   <img width="542" height="293" alt="image" src="https://github.com/user-attachments/assets/3d314bdc-c5c2-45e0-bdc0-270d391a82b0" />
   
   ## Pergunta 4: Qual o valor total de cada venda? (quantidade * preço)
@@ -74,10 +77,12 @@ Não, o comando INSERT INTO sozinho provavelmente não seria a melhor abordagem 
       4	      4	      80.5
       5	      5	      60
       6	      6	      42
+      
   <img width="525" height="248" alt="image" src="https://github.com/user-attachments/assets/1c66a0e5-e36a-4e76-90b3-1ae46726bc6b" />
 
   ## Pergunta 5: Qual o produto mais vendido em termos de quantidade?
   R: Python para Dados com 2 produtos
+  
   <img width="551" height="185" alt="image" src="https://github.com/user-attachments/assets/8001ad13-6cd9-4293-876f-26ebad6ae900" />
 
 Ao responder a essas perguntas com dados, o dono da livraria pode tomar decisões mais inteligentes, como criar promoções direcionadas, otimizar o estoque e entender o comportamento de seus clientes.
